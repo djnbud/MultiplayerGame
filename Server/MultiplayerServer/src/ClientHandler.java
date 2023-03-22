@@ -17,10 +17,20 @@ public class ClientHandler implements Runnable{
 
     public ClientHandler(Socket socket){
         try {
+            System.out.println("HANDLER");
             this.socket = socket;
             this.bufferedWriter = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));
             this.bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-            this.clientUsername = bufferedReader.readLine();
+            String message = "";
+            String line;
+            while ((line = this.bufferedReader.readLine()) != null) {
+                if (line.isEmpty()) {
+                    break;
+                }
+                message += line;
+            }
+            this.clientUsername = message;
+            System.out.println(this.clientUsername);
             clientHandlers.add(this);
             broadcastMessage("SERVER: " + clientUsername + " has entered the chat!");
         } catch (IOException e) {
