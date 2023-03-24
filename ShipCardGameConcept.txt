@@ -1,0 +1,57 @@
+Ship Card Game:
+
+Concept - 
+Start with chosen x amount of ships...
+Each game type would have max number of points, think about shield/hull.
+
+Capital Ship 5000, Crew positions:  1 Captain, 3 Leuitenent, 6 service  
+Cruiser Ship 3500, Crew positions: 1 Captain, 2 Leuitenent, 4 service
+Destroyer Ship 2500, Crew positions: 1 Captain, 1 Leuitenent, 2 service
+Frigate Ship 1500, Crew positions: 1 Leuitenent, 1 service
+Fighter Ship 500, Crew positions: 1 service  
+
+Starts with two decks, one has the ship leaders and other has the rest of cards
+Leaders can be focused to different departments making crew members in that field buffed
+
+Admiral (Doesnt go on ship and only 1 on the battlefield at a time)
+Captain
+Leuitenent
+
+Crew members - Maybe each have stats and for each crew member theres a total skill amount in each department used to play other cards
+Assault
+Engineer
+Researcher
+Medical
+Pilot
+
+All of this can be changeable based on species with other buffs/negatives and types of cards
+
+Humanoid good across the board
+Insectoid would have swarm style tactics/evacive
+Reptilian better at defencive stat
+Bird better at medium/big ships well controlled
+etc
+--------------------------------------------
+Game Turn Example
+Randomly pick player to start.
+Player 1 Picks ships of up to 5000 points. In this case picks 1 Capital Ship
+
+Player 2 Picks ships of up to 5000 points. In this case picks 2 Destroyers
+(Note each player doesnt know what the other player has picked)
+
+Initiation Phase
+Player 1 draws 2 cards from Leaders deck and 5 cards from main deck. Can mulligan once for free but afterwards goes down to 1 leader and 1 less card from main deck until minimum of 1.
+
+Player 2 draws 2 cards from Leaders deck and 5 cards from main deck. Can mulligan once for free but afterwards goes down to 1 leader and 1 less card from main deck until minimum of 1.
+(Note each player doesnt know what hand configuration picked)
+
+Start of game.
+Both players ships are shown on star field.
+
+Note max hand size is 6 (Not including leaders, leader cards have different backs compared to other cards)...
+Player 1
+- Draw from main deck up to max hand size (On First turn player 1 does not)
+- Draw from leader deck (If no leaders in hand)
+- Placing crew, 
+- strategies stages
+
