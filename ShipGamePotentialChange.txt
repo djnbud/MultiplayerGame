@@ -1,0 +1,40 @@
+Potential Big change to space card game: (added department dice)
+
+Setup - 
+Player picks ship cards equal to the chosen amount of play points, 
+with at least one ship able to hold a captain.
+Players have 2 decks each, a strategy deck and a crew deck.
+As well as a d20 (dice with 20 sides) to represent each department in their deck. For example if they have a deck with Research and Handling then they will have 1 dice for each.
+These dice represent basic crew members for that department.
+Players will shuffle their decks and then the opponent will cut the decks.
+Players will now draw 3 cards from the crew deck and 4 from the strategy deck.
+A player may choose to have 1 free mulligen, after that if they mulligen anymore times then they reduce the amount of cards they get to keep in their hand by 1 each time. Down to a minimum of 1 strategy card and 1 crew card.
+Pick randomly which player goes first.
+
+
+Game start - 
+In a 1v1 the first player does not draw any cards on their first turn, otherwise they can choose to either draw 1 card from their strategy deck or 1 from their crew deck.
+
+There are different phases during each players turns which run in the following order which only the current player does on their turn:
+
+Untap Phase - Here you untap any cards out on the space field unless stated otherwise
+
+Crew Hire Phase - Increment 1 of your department dice by 1 (Note you start off at 0 and a department dice goes up to a max of 20 each)
+
+Draw Phase - Choose to draw from either the strategy deck or crew deck
+
+Strategy Phase - You can start playing any amount of cards as long they meet the card cost, except for tier 1 crew cards as only 1 card be played on your turn. Also their can only ever be 1 admiral card on your side of the space field at any one time. Certain cards can also be played during your opponents turn at different phases.
+
+Battle Phase - If the you have any tier 1,2 or 3 crew members untapped they can be used to tap and assigned to a gun slot and fire at an enemy ship.
+
+Reaction Phase - Once you have assigned all targets, the assigned player can react with cards and use other ships to maneuver in front of the targeted ship making them the target (this requires at least 1 tier 1,2 or 3 crew member on that ship to tap).
+
+Damage Phase - Calculate all the damage from the battle and reaction phase and remove any destroyed ship cards out of play.
+
+End Phase - If you have the last remaining ships in play, you win. Otherwise if you have more cards in your hand than your current max hand size then reduce down to your max hand size. Any department resource not used does NOT get transferred to later turns. 
+
+Now the turn gets moved to the next player on your left and they start their untap phase.
+
+
+Playing Cards - Players can spend department dice as a resource towards cards of the same department or neutral(note that on your next turn you regain the amount on that department dice you had. For example if I have 2 on my Research dice, I spend 2 of that to play a card. On my next turn I will regain that 2 and then I can choose to either increment that department dice or any others by 1).
+Players can also use some crew cards to tap them and use them as resource to play a card for the given department. Any department crew resource can be spent on neutral department costs.
