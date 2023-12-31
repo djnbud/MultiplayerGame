@@ -31,10 +31,10 @@ Reaction Phase - Once you have assigned all targets, the assigned player can rea
 
 Damage Phase - Calculate all the damage from the battle and reaction phase and remove any destroyed ship cards out of play.
 
-End Phase - If you have the last remaining ships in play, you win. Otherwise if you have more cards in your hand than your current max hand size then reduce down to your max hand size. Any department resource not used does NOT get transferred to later turns. 
+End Phase - If you have the last remaining ships in play, you win. Otherwise if you have more cards in your hand than your current max hand size then reduce down to your max hand size.
 
 Now the turn gets moved to the next player on your left and they start their untap phase.
 
 
-Playing Cards - Players can spend department dice as a resource towards cards of the same department or neutral(note that on your next turn you regain the amount on that department dice you had. For example if I have 2 on my Research dice, I spend 2 of that to play a card. On my next turn I will regain that 2 and then I can choose to either increment that department dice or any others by 1).
+Playing Cards - Players can spend department dice as a resource towards cards of the same department or neutral
 Players can also use some crew cards to tap them and use them as resource to play a card for the given department. Any department crew resource can be spent on neutral department costs.
